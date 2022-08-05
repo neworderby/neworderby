@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @neworderby
 - 👀 I’m interested in DA
-- 🌱 I’m currently learning LM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
